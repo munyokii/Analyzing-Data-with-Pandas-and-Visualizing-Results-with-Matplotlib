@@ -1,4 +1,12 @@
 # Analyzing Data with Pandas and Visualizing Results with Matplotlib
+## Objective
+
+The goal of this project is to:
+
+- Load and analyze a dataset using pandas in Python.
+- Perform basic data analysis and statistics.
+- Visualize the data using matplotlib.
+- Draw insights and findings from the analysis.
 
 ## Running the program
 To run the program ensure you have python installed.
